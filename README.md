@@ -2,7 +2,7 @@
 This is sample project on use of Retrofit.
 The application consists of three main parts.
   
-  I)Firstly performing POST Request on server file.
+  I)Firstly, performing POST Request on server file.
   
  II)Secondly, Use of GET Request to fetch data from JSON file recited on server.
  
