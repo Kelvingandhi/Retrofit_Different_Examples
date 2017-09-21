@@ -1,5 +1,6 @@
 # Retrofit_Different_Examples
 This is sample project on use of Retrofit library.
+
 The application consists of three main parts.
   
   I)Firstly, Performing POST Request on server file.
